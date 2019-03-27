@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Option Base 1
 
 Dim i As Integer, j As Integer, k As Integer, x As Integer 'Счетчики
