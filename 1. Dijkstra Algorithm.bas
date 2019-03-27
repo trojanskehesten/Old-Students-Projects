@@ -1,3 +1,7 @@
+' Dijkstra Algorithm. D. Beregovoi, 10-03-2015.
+' Warning! Some calculations are done on the list of Excel.
+
+
 Option Base 1
 
 Dim i As Integer, j As Integer, k As Integer, x As Integer 'Счетчики
